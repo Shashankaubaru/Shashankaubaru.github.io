@@ -1,0 +1,333 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Shashanka Ubaru</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+
+	<body id="top">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="#" class="image"><img src="images/new.png"  width="200" height="210" /></a>
+				<h1><strong>Shashanka Ubaru</strong></h1>
+                                <p>
+				Ph.D Student<br>
+				University of Minnesota-Twin Cities</p>
+  		<!-- Nav -->
+			<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">Home</a></li>
+						<li><a href="#two">About me</a></li>
+						<li><a href="#three">Education</a></li>
+						<li><a href="#four">Publications</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+		<section id="one">
+						<div class="row">
+		<div class="col c8">
+			<h1><a href="index.html"><b>Shashanka Ubaru</b></a></h1>
+			<p class="slogan">
+			<a href="http://www.cs.umn.edu/" target="_blank">Department of Computer Science and Engineering</a>,<br>
+			<a href="http://www.umn.edu/" target="_blank">University of Minnesota-Twin Cities</a>
+			</p>
+		</div>
+	
+		<div class="col c8">
+   			<ul class="labeled-icons">
+	 		<li>
+			<h3 class="icon fa-home"><span class="label">Address</span></h3>
+			Kenneth H. Keller Hall<br>
+			200 Union Street SE<br>
+			Minneapolis, MN, USA 55455<br>
+			Office: 5-250
+			</li>
+			<li>
+			<h3 class="icon fa-envelope-o"><span class="label">Email</span></h3>
+			<p><u>ubaru001(at)umn.edu</u></p> 
+			</li>
+			</ul>
+		</div>
+	</div>
+
+	</section>
+
+				<!-- Two -->
+					<section id="two">
+						<h2>About Me</h2>
+						<p>
+I am a Ph.D student in the <a href="http://www.cs.umn.edu/" target="_blank">Department of Computer Science and Engineering</a>, at <a href="http://www.umn.edu/" target="_blank">University of Minnesota</a> (UMN).
+I am fortunate to have Prof. <a href="http://www-users.cs.umn.edu/~saad/" target="_blank">Yousef Saad</a> as my Ph.D advisor. I also work with Prof. <a href="https://people.cs.umass.edu/~arya/"target="_blank">Arya Mazumdar</a>, who co-advised my master's thesis. 
+I am also a member of <a href="http://bouchardlab.lblsci.wpengine.com/" target="_blank">Bouchard Lab</a> at <a href="https://www.lbl.gov/" target="_blank">Lawrence Berkeley National Labs</a>. My research interests are in <i>Numerical Linear Algebra, Coding Theory Applications</i> and <i> Machine Learning</i>. In particular, I am interested in the use of computational linear algebra tools and error correcting coding theory for solving problems related to machine learning, data analysis and signal processing. I am also interested in the use of  machine learning for scientific data applications, particularly in neuroscience and material science (material informatics).
+					</p>
+
+<p>In the summer, I am interning at <a href="https://www.lbl.gov/" target="_blank">Lawrence Berkeley National Labs</a>. </p> 
+
+<a href='Ubaru_CV.pdf' role='button' class="button special small">Curriculum Vitae (pdf) </a>
+
+										</section>
+
+				<!-- Three -->
+					<section id="three">
+						
+						<h2>Education</h2>
+					<ul>
+						<li><b><a href="http://www.umn.edu"target="_blank">University of Minnesota</a>, Minneapolis, MN, USA</b> 
+
+ 					<ul style="list-style-type:square">
+					<li>
+  					<p ><i>Ph.D. student in <a href="https://www.cs.umn.edu"target="_blank">Computer Science</a></i>
+  					<span style="float:right;">Sept. 2014 - present</span><br />
+				 	Advisor: <a href="http://www-users.cs.umn.edu/~saad"target="_blank">Yousef Saad</a>  </p>
+					</li>
+
+					<li><p style="text-align:left;"><i>M.S. in <a href="https://www.cs.umn.edu"target="_blank">Computer Science</a></i>
+  					<span style="float:right;">Sept. 2013 - Oct. 2015</span><br />
+					Project: <i>Low rank approximation using error correcting codes</i> <br />
+				 	Advisor: <a href="http://www-users.cs.umn.edu/~saad"target="_blank">Yousef Saad</a>  </p>
+					</li>
+
+        				<li><p style="text-align:left;"><i>M.S. in <a href="http://www.ece.umn.edu"target="_blank">Electrical Engineering</a></i>
+  					<span style="float:right;">Sept. 2012 - Nov. 2014</span><br />
+					Thesis: <i>Randomized techniques for matrix decomposition and estimating the approximate matrix ranks</i><br />
+				 	Advisors: <a href="http://www-users.cs.umn.edu/~saad"target="_blank">Yousef Saad</a>  
+					and <a href="https://people.cs.umass.edu/~arya/"target="_blank">Arya Mazumdar</a></p>
+					</li>
+					</ul>
+				</li>
+				<li><b><a href={http://www.mrsit.edu"target="_blank">M.S. Ramaiah Institute of Technology</a>, Bangalore, India</b>
+					<ul style="list-style-type:square">
+					<li>
+  					<p style="text-align:left;"><i>B.Eng. in <a href="http://www.msrit.edu/electronics-communication-engineering"target="_blank">Electronics and Communication</a></i>
+  					<span style="float:right;">Sept. 2008 - May 2012</span><br />
+				Final Project: <i>RADARS: Determining Doppler, Ranging and Imaging</i></p>
+					</li>
+				</li>
+			</section>
+				<!-- Four -->			
+					<section id="four">
+						<header>
+						<h2>Publications</h2>
+						</header>
+<h4> Numerical Linear Algebra </h4>
+
+<ul>
+<li> <b>Sampling and multilevel algorithms for fast matrix approximations</b></br>
+<i><b>S. Ubaru</b> and Y. Saad</i>, 2017.
+</li>
+
+<li> <b>Spectrum Approximation Beyond Fast Matrix Multiplication: Algorithms and Hardness</b></br>
+<i>C. Musco, P. Netrapalli, A. Sifford, <b>S. Ubaru</b> and D.P. Woodruff</i>,
+ submitted, 2017.
+					[<a href="http://arxiv.org/abs/1704.04163" target="_blank"><i class="fa fa-external-link"></i> arXiv</a>]
+					</li>
+
+<li><b> Fast estimation of <i>tr(f(A))</i> via Stochastic Lanczos Quadrature</b></br>
+<i><b>S. Ubaru</b>, Jie Chen,</i> and <i>Yousef Saad</i></br> 
+SIAM Journal on Matrix Analysis and Applications (SIMAX), <i>Accepted</i>  2017. 
+					[<a href="Papers/Lanc_Quad.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>]
+					</li>
+
+<li><b>Fast estimation of approximate matrix ranks using spectral densities</b><br />
+					<b><i>S. Ubaru</b>, Yousef Saad,</i> and <i>Abd-Krim Seghouane</i><br />
+					Neural Computation, 29(5):1317-1351, 2017.
+					[<span> 
+<a href="Papers/rank_DOS_ARXIV.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>,
+<a href="http://arxiv.org/abs/1608.05754" target="_blank"><i class="fa fa-external-link"></i> arXiv</a>,
+ <a href="http://www.mitpressjournals.org/doi/pdf/10.1162/NECO_a_00951" target="_blank"><i class="fa fa-external-link"></i> NC</a>
+</span>]
+					</li>
+					
+<li> <b>Improving the Incoherence of a Learned Dictionary via Rank Shrinkage</b><br />
+					<b><i>S. Ubaru</b>, Abd-Krim Seghouane,</i> and <i>Yousef Saad</i><br />
+					Neural Computation, 29(1):263-285, 2017.
+					[<span>
+<a href="Papers/DL_rank_shrinkage.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>,
+ <a href="http://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00907" target="_blank"><i class="fa fa-external-link"></i> NC</a>
+</span>]
+					</li>
+
+<li><b>Fast methods for estimating the Numerical rank of large matrices</b><br />
+					<b><i>S. Ubaru</b></i> and <i>Yousef Saad</i><br />
+					International Conference on Machine Learning (ICML),  2016.<br />
+					   [
+					<a href="Papers/rank_estimation_ICML.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>,
+					<a href="http://jmlr.org/proceedings/papers/v48/ubaru16.html" target="_blank"><i class="fa fa-external-link"></i> ICML</a>,
+					<a style="cursor:pointer;" href="#popup1" title="Show BibTeX entry"><i class="fa fa-toggle-off"></i> BibTeX</a>, <a href="codes/rank_estimation.zip" target="_blank"><i class="fa fa-download"></i> Codes</a>]
+					<br />
+					</li>
+					<div id="popup1" class="overlay">
+						<div class="popup">
+							<a class="close" href="#">&times;</a>
+						<div class="content">
+						@inproceedings{ubaru2016fast, <br />
+  						title={Fast methods for estimating the Numerical rank of large matrices},<br />
+  						author={Ubaru, Shashanka  and Saad, Yousef},<br />
+  						booktitle={Proceedings of the 33rd International Conference on Machine Learning (ICML-16)},<br />
+ 						pages={468-477},<br />
+  						year={2016}}
+						</div>
+						</div>
+					</div>
+					
+					</ul>
+
+
+<h4>Error Correcting Codes Applications</h4>
+        		
+				<ul>
+<li> <b> Multilabel Classification with Group Testing and Codes </b> </br>
+<b><i>S. Ubaru</i></b> and <i> Arya Mazumdar</i> </br>
+International Conference on Machine Learning (ICML), 2017.</br>
+[<a href="Papers/Ubaru_Mazumdar_MLCGT.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>, <a href="http://proceedings.mlr.press/v70/ubaru17a.html" target="_blank"><i class="fa fa-external-link"></i> ICML</a>] 
+</li>
+
+<li> <b> Low rank approximation and decomposition of large matrices using error correcting codes </b> </br>
+<i><b>S. Ubaru</b>, Arya Mazumdar,</i> and <i>Yousef Saad</i> </br>
+	IEEE Transactions on Information Theory, <i>Accepted</i>  2017. 
+					[<a href="http://arxiv.org/abs/1512.09156" target="_blank"><i class="fa fa-external-link"></i> arXiv</a>, <a href="http://ieeexplore.ieee.org/abstract/document/7970174/" target="_blank"><i class="fa fa-external-link"></i> TofIT</a>]	</li>
+
+<li> <b>Group testing schemes from low-weight codewords of BCH codes</b><br />
+					<b><i>S. Ubaru</b>, Arya Mazumdar,</i> and <i>Alexander Barg</i><br />
+					IEEE International Symposium on Information Theory (ISIT), 2016. <br/>		
+					   [
+					<a href="Papers/GT_expt_ISIT_final.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>, <a href="http://ieeexplore.ieee.org/document/7541822/" target="_blank"><i class="fa fa-external-link"></i> ISIT</a>, <span>
+					<a style="cursor:pointer;" href="#popup1" title="Show BibTeX entry"><i class="fa fa-toggle-off"></i>BibTeX</a>					</span>]
+					<br />
+					</li>
+					<div id="popup1" class="overlay">
+						<div class="popup">
+							<a class="close" href="#">&times;</a>
+						<div class="content">
+						@inproceedings{ubaru2016group,<br />
+  title={Group testing schemes from low-weight codewords of BCH codes},<br />
+  author={Ubaru, Shashanka and Mazumdar, Arya and Barg, Alexander},<br />
+   booktitle={IEEE International Symposium on Information Theory (ISIT)},<br />
+  year={2016}<br />
+}
+						</div>
+						</div>
+					</div>
+
+
+					<li> 
+					<b>Low rank approximation using error correcting coding matrices</b><br />
+					<b><i>S. Ubaru</b>, Arya Mazumdar,</i> and <i>Yousef Saad</i><br />
+					International Conference on Machine Learning (ICML), 						2015.<br />
+					[
+					<a href="Papers/Low_Rank_ICML_Revised.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>, <a href="http://videolectures.net/icml2015_ubaru_coding_matrices/" target="_blank"> talk</a>, <a href="Papers/ICML_slides.pdf" target="_blank"> slides</a>,<span>
+					<a style="cursor:pointer;" href="#popup2" title="Show BibTeX entry"><i class="fa fa-toggle-off"></i>BibTeX</a></span>]</br>
+
+			                <div id="popup2" class="overlay">
+						<div class="popup">
+							<a class="close" href="#">&times;</a>
+						<div class="content">
+						@inproceedings{ubaru2015low, <br />
+  						title={Low rank approximation using error correcting coding matrices},<br />
+  						author={Ubaru, Shashanka and Mazumdar, Arya and Saad, Yousef},<br />
+  						booktitle={Proceedings of the 32nd International Conference on Machine Learning (ICML-15)},<br />
+ 						pages={702--710},<br />
+  						year={2015}}
+						</div>
+						</div>
+					</div>
+
+					<i>Published <a href="http://jmlr.org/proceedings/papers/v37/ubaru15.html">version</a> contains some minor 							errors that have since been corrected in the above revised version.</i> 
+					</li>
+
+</ul>
+
+					
+
+<h4>Machine Learning for Scientific Applications</h4>
+<ul>
+<li> <b>UoI-NMF_cluster : A Robust Nonnegative Matrix Factorization Algorithm for Improved Parts-Based Decomposition and Reconstruction of Noisy Data</b></br>
+<i><b>S. Ubaru</b> , K. Wu and K.E. Bouchard</i>, submitted, 2017. </li>
+<li> <b>Union of Intersections (UoI) for Interpretable Data Driven Discovery and Prediction</b></br>
+<i>K. E. Bouchard, A. F. Bujan, F. Roosta-Khorasani, <b>S. Ubaru</b>, Prabhat, A. M. Snijders, J.-H. Mao, E. F. Chang, M. W. Mahoney, and S. Bhattacharyya</i>, submitted, 2017. 
+[<a href="https://arxiv.org/abs/1705.07585" target="_blank"><i class="fa fa-external-link"></i> arXiv</a>]
+					</li>
+
+<li> <b>Formation enthalpies for transition metal alloys using machine learning</b> 
+				<br/> <b><i>S. Ubaru</b>, Agnieszka Miedlar, Yousef Saad</i> and <i>James R. Chelikowsky</i><br/>
+Physcal Review B, (Vol.95, No.21)  2017. 
+					[<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.214102" target="_blank"><i class="fa fa-external-link"></i> PRB</a>]
+					</li>
+	
+				</ul>	
+
+				
+									
+				<h4>Others </h4>
+
+<ul>
+<li> 
+					<b>Displaying gray scales by cross pairing select and data voltages in multi-line addressed LCD</b> <br />
+					<b><i>S. Ubaru</i></b> and <i>Temkar N. Ruckmongathan</i><br />
+					IEEE, Journal of Display Technology, vol 8, no. 11, pp 669–677, November, 2012.</br>
+					[<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6317119" target="_blank"><i class="fa fa-external-link"></i> JDT</a>,
+<span>
+<a style="cursor:pointer;" href="#popup3" title="Show BibTeX entry"><i class="fa fa-toggle-off"></i> BibTeX</a>					</span>]
+					</li>
+					<div id="popup3" class="overlay">
+						<div class="popup">
+							<a class="close" href="#">&times;</a>
+						<div class="content">
+					@article{ubaru2012gray,<br />
+  					title={Gray scales by cross pairing of select and data voltages in multi-line addressed liquid crystal displays}, <br />
+  					author={Ubaru, Shashanka and Ruckmongathan, Temkar N},
+  					journal={Journal of Display Technology},<br />
+  					volume={8},<br />
+  					number={11},<br />
+  					pages={669--677},<br />
+  					year={2012},<br />
+  					publisher={IEEE}}
+ 			                </div>
+						</div>
+					</div>	
+</ul>
+
+				<h5> Masters Thesis</h5>
+				<ul>
+				<li><i>"Randomized techniques for matrix decomposition and estimating the approximate rank of a matrix"</i>, M. S. Thesis, University of Minnesota, Minneapolis, Nov. 2014.
+				[<a href="http://conservancy.umn.edu/handle/11299/170049" target="_blank"><i class="fa fa-external-link"></i> Link</a>, <a href="http://conservancy.umn.edu/bitstream/handle/11299/170049/Ubaru_umn_0130M_15586.pdf?sequence=1&isAllowed=y" target="_blank"><i class="fa fa-file-pdf-o"></i> PDF</a>]
+				</li></ul>
+
+			
+
+		</section>
+				<!-- Five -->			
+					<section id="five">
+<span style="float:right;">
+				
+					&copy; Shashanka Ubaru 2017 | Design: <a href="http://html5up.net">HTML5 UP</a>
+				
+</span>
+			</section>
+</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
